@@ -6,5 +6,6 @@
 
 
 
-logout sddm theme is https://github.com/Keyitdev/sddm-astronaut-theme?tab=readme-ov-file
-rofi drun is rofi-glass-fullscreen from https://gist.github.com/Ferryistaken/e0cf8e0850ae386d33580aa191b4ebad
+- logout sddm theme is https://github.com/Keyitdev/sddm-astronaut-theme?tab=readme-ov-file
+
+- rofi drun is rofi-glass-fullscreen from https://gist.github.com/Ferryistaken/e0cf8e0850ae386d33580aa191b4ebad
