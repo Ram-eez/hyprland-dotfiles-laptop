@@ -5,7 +5,9 @@
 ![image](https://github.com/user-attachments/assets/86d06862-7f39-4016-9adc-8c26fe3fba9f)
 
 
-
+-Ghostty theme is Fahrenheit with changed colors (in the repo)
+- using zsh plugins zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd and the theme powerlevel10k pure style https://github.com/romkatv/powerlevel10k
+  
 - logout sddm theme is https://github.com/Keyitdev/sddm-astronaut-theme?tab=readme-ov-file
 
 - rofi drun is rofi-glass-fullscreen from https://gist.github.com/Ferryistaken/e0cf8e0850ae386d33580aa191b4ebad
